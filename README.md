@@ -1,17 +1,15 @@
 ## Hi there 👋
-👋 I'm Khushi Rani, a passionate B.Tech CSE student eager to explore the endless possibilities of technology and innovation.
+👋 I'm Ruchi Kumari, a passionate B.Tech CSE student eager to explore the endless possibilities of technology and innovation.
 
 🛠️ Tech Stack
 
 Languages: Python 🐍 | Java ☕ | HTML | CSS | JavaScript
 
-Frameworks: Flask | LangChain | Streamlit | BeautifulSoup | Playwright
-
-Tools: Git | GitHub | Poetry
+Tools: Git | GitHub 
 
 Database: MySQL
 
-Special Interests: AI, Generative AI (RAG, Chatbots)
+Special Interests: SEO Expert
 <!--
 **ruchiikr/ruchiikr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
